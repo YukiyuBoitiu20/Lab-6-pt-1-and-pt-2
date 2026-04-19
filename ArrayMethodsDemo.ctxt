@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ArrayMethodsDemo
+comment0.text=\r\n\ A\ program\ that\ demonstrates\ various\ array\ processing\ methods.\r\n\ CITATION\:\ The\ logic\ for\ array\ processing\ methods\ was\ guided\ by\ \r\n\ the\ Chapter\ 7\ video\ archives,\ recaps\ and\ Java\ tutorials\ on\ YouTube.\r\n\ @author\ David\ A.\ Rivera\ Ortiz\r\n\ @version\ 1.0\r\n\ @since\ 2026-04-19\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array
+comment2.target=void\ displayArray(int[])
+comment2.text=\r\n\ Prints\ all\ the\ values\ in\ an\ integer\ array\ on\ a\ single\ line.\r\n\ @param\ array\ The\ integer\ array\ to\ be\ displayed.\r\n
+comment3.params=array
+comment3.target=int\ getTotal(int[])
+comment3.text=\r\n\ Calculates\ the\ total\ sum\ of\ all\ values\ in\ an\ integer\ array.\r\n\ @param\ array\ The\ integer\ array\ to\ process.\r\n\ @return\ The\ total\ sum\ of\ the\ array's\ elements.\r\n
+comment4.params=array
+comment4.target=double\ getAverage(int[])
+comment4.text=\r\n\ Calculates\ the\ average\ of\ all\ values\ in\ an\ integer\ array.\r\n\ @param\ array\ The\ integer\ array\ to\ process.\r\n\ @return\ The\ average\ of\ the\ array's\ elements\ as\ a\ double.\r\n
+comment5.params=array
+comment5.target=int\ getHighest(int[])
+comment5.text=\r\n\ Finds\ the\ highest\ value\ in\ an\ integer\ array.\r\n\ @param\ array\ The\ integer\ array\ to\ process.\r\n\ @return\ The\ highest\ value\ found\ in\ the\ array.\r\n
+comment6.params=array
+comment6.target=int\ getLowest(int[])
+comment6.text=\r\n\ Finds\ the\ lowest\ value\ in\ an\ integer\ array.\r\n\ @param\ array\ The\ integer\ array\ to\ process.\r\n\ @return\ The\ lowest\ value\ found\ in\ the\ array.\r\n
+numComments=7
